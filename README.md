@@ -70,6 +70,7 @@ S. No.	VDS (V)	VGS (V)	ID (mA)
 7			
 8			
 Repeat the observation for different constant values of VGS.
+
 Simulation Results
 <img width="1920" height="439" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/d817a36f-11ce-40e5-875f-193ebe91fb01" />
 
